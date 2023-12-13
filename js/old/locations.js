@@ -22,7 +22,7 @@ const locations = [
 								dom: '12:00 – 20:00'
 							}
 						],
-						phone: '(19) 3756-7400',
+						phone: '(19) 3756-7400 | 3208-2588',
 						whatsapp: '19 99872-1273'
 					},
 					/*{
@@ -43,7 +43,7 @@ const locations = [
 						],
 						phone: '(19) 3367-4547 | 3367-4557',
 						whatsapp: '(19) 99673-2059'
-					},
+					},*/
 					{
 						name: 'Antony Extra Abolição',
 						address: 'R. da Abolição, 2013 - 32',
@@ -62,7 +62,7 @@ const locations = [
 						],
 						phone: '(19) 3308-4407 | 3308-4409',
 						whatsapp: '19 99872-1273'
-					},*/
+					},
 					{
 						name: 'Antony Galleria',
 						address: 'Rod. Dom Pedro I, Km 131',
@@ -79,7 +79,7 @@ const locations = [
 								dom: '12:00 – 20:00'
 							}
 						],
-						phone: '(19) 3207-2666',
+						phone: '(19) 3207-2666 | 3207-0013',
 						whatsapp: '19 99872-1273'
 					},
 					{
@@ -98,7 +98,7 @@ const locations = [
 								dom: '14:00 – 20:00'
 							}
 						],
-						phone: '(19) 3242-7090',
+						phone: '(19) 3242-7090 | 3213-4453',
 						whatsapp: '19 99872-1273'
 					},
 					{
@@ -136,7 +136,7 @@ const locations = [
 								dom: '10:00 – 20:00'
 							}
 						],
-						phone: '(19) 3207-4373',
+						phone: '(19) 3207-4373 | 3207-0425',
 						whatsapp: '19 99872-1273'
 					},
 					{
@@ -174,7 +174,7 @@ const locations = [
 								dom: '12:00 – 20:00'
 							}
 						],
-						phone: '(19) 3267-1608',
+						phone: '(19) 3267-1608 | 3234-2426',
 						whatsapp: '19 99872-1273'
 					},
 					{
@@ -193,7 +193,7 @@ const locations = [
 								dom: '12:00 – 20:00'
 							}
 						],
-						phone: '(19) 3294-2685',
+						phone: '(19) 3294-2685 | 3253-5308',
 						whatsapp: '19 99872-1273'
 					},
 					{
@@ -212,7 +212,7 @@ const locations = [
 								dom: '9:00 – 17:00'
 							}
 						],
-						phone: '(19) 3295-8556',
+						phone: '(19) 3295-8556 | 3254-3186',
 						whatsapp: '19 99872-1273'
 					},
 					{
@@ -231,7 +231,7 @@ const locations = [
 								dom: '12:00 – 20:00'
 							}
 						],
-						phone: '(19) 3728-4180',
+						phone: '(19) 3728-4180 | 3722-4181',
 						whatsapp: '19 99872-1273'
 					},
 					{
@@ -251,25 +251,6 @@ const locations = [
 							}
 						],
 						phone: '(19) 3208-2055',
-						whatsapp: '19 99872-1273'
-					},
-					{
-						name: 'Antony Kiosk Galleria Shopping',
-						address: 'Rod. Dom Pedro I, Km 131',
-						coordinates: '-22.8572736,-47.024022',
-						neighborhood: 'Jardim Nilópolis',
-						hours: [
-							{
-								seg: '10:00 – 22:00',
-								ter: '10:00 – 22:00',
-								qua: '10:00 – 22:00',
-								qui: '10:00 – 22:00',
-								sex: '10:00 – 22:00',
-								sab: '10:00 – 22:00',
-								dom: '12:00 – 20:00'
-							}
-						],
-						phone: '(19) 97100-4121',
 						whatsapp: '19 99872-1273'
 					}
 				]
